@@ -6,12 +6,6 @@
 ### <div align="center">I'm Rodrigo, a full-time full-stack developer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently looking for an opportunity to bring the best solutions.  
-  
-
-- 🌱 I’m currently learning Typescript and Next.js  
-  
-
 - ⚡ I love football, music, movies and theater.  
   
 
